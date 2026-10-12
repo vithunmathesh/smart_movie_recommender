@@ -30,3 +30,5 @@ Pandas – Data handling and preprocessing
 Scikit-learn – Machine learning (TF-IDF & cosine similarity)
 
 NumPy – Numerical computations
+
+Check out here - https://movierecommender-psp.streamlit.app/
